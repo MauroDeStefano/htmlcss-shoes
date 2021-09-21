@@ -61,7 +61,7 @@ nav ol li a {
 }
 
 .text {
-  /* font-size: 170%; */
+  font-size: 3vw;
   text-align: center;
 }
 
@@ -79,7 +79,6 @@ nav ol li a {
 .first, .second, .third{
     background-color: red;
     color: yellow;
-    font-size: 170%;
     text-align: center;
     padding-bottom: 50px;
 }
