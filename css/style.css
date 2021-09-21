@@ -18,9 +18,6 @@ body{
   clear: both;
 }
 
-nav{
-
-}
 
 nav ol{
   position: fixed;
@@ -56,8 +53,10 @@ nav ol li a {
 }
 
 .container-shoe {
+  height: 100vh;
   width: 100%;
   position: relative;
+  text-align: center;
 }
 
 .text {
